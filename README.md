@@ -11,6 +11,7 @@ HTML
 CSS
 SQL
 MongoDB
+
 📚 Currently Learning:
 
 Python
