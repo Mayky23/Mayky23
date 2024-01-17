@@ -19,7 +19,7 @@ As a cybersecurity and ethical hacking enthusiast, I am committed to staying upd
 In my free time, I enjoy delving into the world of hacking and cybersecurity. I spend hours on Hack the Box machines, igniting my curiosity in the realm of ethical hacking. On the creative side, I love crafting tools like malicious USBs and creating my important personal project, NetHunter. NetHunter It's a toolbox 
 written in Python and designed for wifi hacking (tested only in controlled environments).
 
-Contact: 
+☎️ **Contact:**
 If you have any questions, ideas, or just want to connect:
 
 💼 https://www.linkedin.com/in/mardh 
