@@ -19,7 +19,7 @@ As a cybersecurity and ethical hacking enthusiast, I am committed to staying upd
 🔐 **Projects and Experiments:**
 
 In my free time, I enjoy delving into the world of hacking and cybersecurity. I spend hours on Hack the Box machines, igniting my curiosity in the realm of ethical hacking. On the creative side, I love crafting tools like malicious USBs and creating my important personal project, Ciber Monkey. Ciber Monkey It's a toolbox 
-written in Python and designed for wifi hacking (tested only in controlled environments).
+written in Python and designed for pentesting (tested only in controlled environments).
 
 ☎️ **Contact:**
 
