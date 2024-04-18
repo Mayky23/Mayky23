@@ -76,6 +76,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/Mayky23/Mayky23/blob/main/snake.yml" alt="Snake animation" />
+[enlace](https://github.com/Mayky23/Mayky23/main/snake.yml)
+
 
 ###
