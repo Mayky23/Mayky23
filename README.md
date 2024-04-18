@@ -76,7 +76,6 @@
 
 <br clear="both">
 
-[enlace](https://github.com/Mayky23/Mayky23/main/snake.yml)
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFqYm42MnoxOXNkM3AxZHl5a2t5aW5xeWFtdTlqY3l3eDBjOWRyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4heseFMvObk9q/giphy.gif" alt="Snake animation" />
 
 ###
