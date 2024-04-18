@@ -77,6 +77,6 @@
 <br clear="both">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFqYm42MnoxOXNkM3AxZHl5a2t5aW5xeWFtdTlqY3l3eDBjOWRyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4heseFMvObk9q/giphy.gif" 
-width="900" alt="Snake animation" />
+width="750" alt="Snake animation" />
 
 ###
