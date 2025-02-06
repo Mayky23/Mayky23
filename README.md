@@ -86,9 +86,3 @@
 ###
 
 <p align="left">In my free time I like to make machines on Hack the Box, which piques my curiosity in the field of ethical hacking. On the creative side, I love creating red team and forensic tools. I also focus on my personal project, Ciber Monkey. Ciber Monkey It is a toolbox written in Python and designed for pentesting (tested only in controlled environments).</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Mayky23/Mayky23/output/snake.svg" alt="Snake animation" />
-
-###
