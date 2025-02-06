@@ -1,4 +1,9 @@
-<h1 align="left">👋 About Me</h1>
+
+<div align="center">
+  <img src="foto1.png"  />
+</div>
+
+###
 
 ###
 
@@ -84,6 +89,6 @@
 
 ###
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/Mayky23/Mayky23/output/snake.svg" alt="Snake animation" />
 
 ###
