@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">I am a cybersecurity student with studies in multiplatform application development</p>
+<p align="left">I am a cybersecurity specialist with studies in cross-platform application development.</p>
 
 ###
 
@@ -68,8 +68,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
 </div>
 
 ###
@@ -86,4 +84,4 @@
 
 ###
 
-<p align="left">In my free time I like to make machines on Hack the Box, which piques my curiosity in the field of ethical hacking. On the creative side, I love creating red team and forensic tools. I also focus on my personal project, Ciber Monkey. Ciber Monkey It is a toolbox written in Python and designed for pentesting (tested only in controlled environments).</p>
+<p align="left">In my free time I like to make machines on Hack the Box, which piques my curiosity in the field of ethical hacking. On the creative side, I love creating red team and forensic tools. </p>
